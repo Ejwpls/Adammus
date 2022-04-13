@@ -1,10 +1,10 @@
 import pyETABS_Attach
-import pd as pandas
+import pandas as pd
 
 
-def getDrift():
+def getDrift(loadcase):
     NumberResults = 0
-    story = []
+    Story = []
     StepType = []
     StepNum = []
     Direction = []
@@ -15,13 +15,15 @@ def getDrift():
     Y = []
     Z = []
 
-    ret = pyETABS_Attach.SapModel.Results.Setup.SetCaseSelectedForOutput("SPEC XY u1")
+    ret = pyETABS_Attach.SapModel.Results.Setup.SetCaseSelectedForOutput(loadcase)
+    ret = pyETABS_Attach.SapModel.Results.StoryDrifts(NumberResults, Story, LoadCase, StepType, StepNum, Direction,
+                                                      Drift, Label, X, Y, Z)
 
-    ret = pyETABS_Attach.SapModel.results.storydrift(NumberResults, story, LoadCase, StepType, StepNum, Direction,
-                                                     Drift, Label, X, Y, Z)
+    ret = pd.DataFrame(ret[1:-1]).T
+    ret.columns = ['Story', 'LoadCase', 'StepType', 'StepNum', 'Direction', 'Drift', 'Label', 'X', 'Y', 'Z']
+    # print(ret)
 
     return ret
 
-    print(getDrift())
 
-
+print(getDrift("SPEC XY-DRIFT").head())

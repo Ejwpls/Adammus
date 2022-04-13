@@ -33,4 +33,4 @@ def getfrForce(label):
 
     return ret
 
-print((getfrForce("411")))
+print((getfrForce("C40")))
