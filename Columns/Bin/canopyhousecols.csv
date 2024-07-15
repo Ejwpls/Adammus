@@ -1,0 +1,822 @@
+GUID,Column Mark No,X,Y,Z Base,Z Top,Type Name,Shape,B,H
+6accca90-eacc-4fff-a6b2-b628c2574701-00146da7,,5506.52,-2272,40900,44350.03,Column Circular Concrete_HERA22,Circular,750,0
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dab,,45711.52,-5172,26550,29550.11,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dac,,32406.52,-5172,19950,26150,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dad,,45711.52,-5172,20250,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dae,,45711.52,-2272,20250,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146daf,,32406.52,-2272,19950,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146db0,,23006.52,-5172,20050,26150,Column Rectangular Concrete_HERA22,Rectangle,1200,1200
+6accca90-eacc-4fff-a6b2-b628c2574701-00146db1,,13606.52,-2272,16200,24750,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146db2,,13606.52,-5172,16200,26150,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146db5,,56.52,-13372,16200,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146db6,,62556.52,-5172,22250,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146db7,,62556.52,-2272,22250,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146db9,,63616.52,-20972,13050,17169.27,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dba,,63616.52,-12697,13050,16785.89,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dbb,,56.52,-22022,16200,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dbc,,4666.52,-22022,16200,20049.92,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dbd,,4666.52,-13372,16200,20049.92,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dbe,,-1088.46,-27440.91,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dc2,,23006.52,-1322.1,20050,29300,Feature Column Rectangular Concrete_HERA22,Rectangle,1250,1250
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dc3,,54256.52,-5172,20250,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dc4,,54256.52,-2272,20250,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dc5,,4710.8,-27414.36,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dc6,,12922.57,-27412.36,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dc7,,50540.62,-27467.5,40760,44349.93,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dc8,,40812.08,-27414.09,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dc9,,32397.75,-27408.56,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dcb,,56.52,-27422,16200,25950,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dd9,,4046.52,-8825.28,145550,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dda,,21656.52,-8825.28,144900,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146ddb,,4046.52,-13072,146250,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146ddc,,21656.52,-13072,146250,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146ddd,,10751.52,-8825.28,144900,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dde,,10751.52,-13072,146250,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146ddf,,41966.52,-8825.28,146650,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146de0,,24356.52,-8825.28,144900,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146de1,,41966.52,-13072,146250,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146de2,,24356.52,-13072,146250,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146de3,,35261.52,-8825.28,144900,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146de4,,35261.52,-13072,146250,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146de5,,21466.52,-24272,145550,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146de6,,24546.52,-24272,145550,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146de7,,45711.52,-2272,26550,29550.11,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146de8,,32406.52,-5172,26550,29150,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146de9,,32406.52,-2272,26550,29550.11,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146dee,,45711.52,-5171.97,40900,44350.03,Column Circular Concrete_HERA22,Circular,850,0
+6accca90-eacc-4fff-a6b2-b628c2574701-00146df0,,33361.52,-8825.28,144900,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146df1,,33361.52,-13072,146250,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146df2,,12651.52,-8825.28,144900,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146df3,,12651.52,-13072,146250,154950,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146df6,,56416.52,-8072,19980,22400,Column Rectangular Concrete_HERA22,Rectangle,500,500
+6accca90-eacc-4fff-a6b2-b628c2574701-00146df7,,63616.52,-12697,22650,26300,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146df8,,63616.52,-12672,26550,29550.13,Column Rectangular Concrete_HERA22,Rectangle,350,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e0a,,56.52,-13372,26550,29550.1,Column Rectangular Concrete_HERA22,Rectangle,600,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e0b,,4666.52,-13372,26550,29550.1,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e0c,,56.52,-21992,26550,29550.1,Column Rectangular Concrete_HERA22,Rectangle,600,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e0d,,4666.52,-21992,26550,29550.1,Column Rectangular Concrete_HERA22,Rectangle,750,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e0e,,4666.52,-27422,26550,29550.1,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e0f,,4666.52,-27422,16200,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e10,,-1083.34,-27422,35550,40500,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e12,,56.52,-13372,13050,15950,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e13,,4666.52,-13372,13050,15950,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e14,,56.52,-22022,13050,15950,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e15,,4666.52,-22022,13050,15950,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e16,,32406.52,-12822,13050,16350.11,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e17,,32406.52,-19742,13050,16350.11,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e18,,12916.52,-19122,13050,16350.11,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e19,,12916.52,-28362,13050,16350.1,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e1a,,21316.52,-28362,13050,16350.1,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e1b,,24006.52,-28362,13050,16350.1,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e1c,,32406.52,-28362,13050,16350.1,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e1d,,51456.42,-12822,13050,16906.39,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e1e,,55116.52,-12822,13050,17165.49,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e1f,,13606.52,-5172,26550,29150,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e20,,13606.52,-2272,26550,29150,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e23,,41856.52,-5172,20250,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e24,,54256.52,-2272,26550,29550.11,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e25,,54256.52,-5172,26550,29550.11,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e26,,62906.52,-2272,26550,29550.11,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e27,,62906.52,-5172,26550,29550.11,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e28,,54256.52,-2272,13050,16350.07,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e29,,54256.52,-5172,13050,17129.39,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e2c,,32406.52,-5172,13050,16350.04,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e2d,,32406.52,-2272,13050,16350.04,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e30,,41856.52,-5172,26550,29550.11,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e31,,4666.52,-27422,13050,15600,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e32,,56.52,-27422,13050,15600,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e35,,12916.52,-18972,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e37,,13606.52,-12672,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e39,,32406.52,-13272,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e3c,,32406.52,-20000,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e3d,,13606.52,-5172,13050,15850,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e3e,,13606.52,-2272,13050,15850,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e3f,,45711.52,-5172,13050,16350.17,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e40,,45711.52,-2272,13050,16350.17,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e41,,41856.52,-5172,13050,16350.17,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e43,,56416.52,-12822,19950,22400,Column Rectangular Concrete_HERA22,Rectangle,500,500
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e45,,56416.52,-17872,19950,22400,Column Rectangular Concrete_HERA22,Rectangle,500,500
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e48,,7406.52,-2272,13050,15850,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e49,,40806.52,-12822,26550,29550.11,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e4a,,43706.52,-12822,26550,29550.11,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e4d,,40806.52,-12822,19550,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e4e,,43706.52,-12822,19550,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e4f,,40806.52,-12822,13050,16350.05,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+6accca90-eacc-4fff-a6b2-b628c2574701-00146e50,,43706.52,-12822,13050,16350.05,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-001577dd,,-583.34,-27422,26550,29150,Column Rectangular Concrete_HERA22,Rectangle,500,2000
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-00157802,,-583.34,-27422,29550,32150,Column Rectangular Concrete_HERA22,Rectangle,500,2000
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-00157838,,-1083.34,-27422,32550,35150,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-00157c6c,,12916.52,-12922,13050,16350.11,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-00157e69,,5026.52,-22092,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-00157ef6,,-43.47,-22092,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-00157fc3,,5021.52,-13372,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-00157fc4,,6.53,-13372,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-001580ae,,3016.52,-6872,16000,25950,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-00158ee8,,50556.52,-22122,13050,16350.12,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-00159309,,21171.52,-25722,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-00159387,,24841.52,-25722,40900,44350.03,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+9cd2cbb6-8624-478f-b7a6-79ad6941bc81-00159a8e,,7406.52,-5172,16350,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a0cb,,4666.52,-22022,20049.92,23279.87,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a0cc,,4666.52,-13372,20049.92,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a0da,,4666.52,-22022,23279.87,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a106,,63616.52,-12697,17059.32,19800,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a112,,32406.52,-12822,16350.11,20050.06,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a115,,32406.52,-19742,16350.11,20050.06,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a116,,12916.52,-19122,16350.11,20050.06,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a117,,12916.52,-28362,16350.1,19090,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a11a,,21316.52,-28362,16350.1,19090,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a11b,,24006.52,-28362,16350.1,19090,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a11c,,32406.52,-28362,16350.1,19090,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a11d,,51456.42,-12822,17227.8,19800,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a120,,55116.52,-12822,17486.91,19800,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a122,,54256.52,-2272,16350.07,19950,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a125,,54256.52,-5172,17401.25,19950,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a128,,32406.52,-5172,16350.04,19750,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a12b,,32406.52,-2272,16350.04,19750,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a12d,,45711.52,-5172,16350.17,19835,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a130,,45711.52,-2272,16350.17,19835,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a131,,41856.52,-5172,16350.17,19835,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a132,,7406.52,-2272,16100,26150,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a13b,,40806.52,-12822,16350.05,19800,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a13e,,43706.52,-12822,16350.05,19800,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a13f,,12916.52,-12922,16350.11,20050.06,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a140,,50556.52,-22122,16350.12,20050.09,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a144,,63616.52,-20972,17442.71,22640,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a147,,63616.52,-12697,20049.99,22400,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a150,,32406.52,-12822,20050.06,23280.01,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a153,,32406.52,-19742,20050.06,23280.01,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a154,,12916.52,-19122,20050.06,23280.01,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a155,,12916.52,-28362,19390,23030,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a158,,21316.52,-28362,19390,26300,Column Rectangular Concrete_HERA22,Rectangle,600,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a159,,24006.52,-28362,19390,26300,Column Rectangular Concrete_HERA22,Rectangle,600,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a15a,,32406.52,-28362,19390,26300,Column Rectangular Concrete_HERA22,Rectangle,600,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a15b,,51456.42,-12822,20050.09,26300,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a15e,,55116.52,-12822,20050.09,26300,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a15f,,41406.52,-29886.98,19025,26550,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a160,,50556.52,-29886.98,19025,23280,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a16a,,12916.52,-12922,20050.06,23280.01,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a16b,,50556.52,-22122,20050.09,26300,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a18c,,32406.52,-12822,23280.01,26300,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a18f,,32406.52,-19742,23280.01,26300,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a190,,12916.52,-19122,23280.01,26300,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a191,,12916.52,-28362,23280,26300,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a19c,,50556.52,-29886.98,23280,26549.88,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1a6,,12916.52,-12922,23280.01,26300,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1ab,,63616.52,-20972,22890,26300,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1b7,,23006.52,-5172,26549.9,29150,Column Rectangular Concrete_HERA22,Rectangle,1200,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1c0,,32406.52,-12822,26549.9,29550.03,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1c3,,32406.52,-19742,26549.9,29550.03,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1c4,,12916.52,-19122,26549.9,29550.03,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1c5,,12916.52,-28362,26549.88,29550.01,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1c8,,21316.52,-28362,26549.88,29550.01,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1c9,,24006.52,-28362,26549.88,29550.01,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1ca,,32406.52,-28362,26549.88,29550.01,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1cb,,51456.42,-12822,26549.95,29550.09,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1ce,,55116.52,-12822,26549.95,29550.09,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1cf,,41406.52,-29886.98,26549.88,29550.01,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1d0,,50556.52,-29886.98,26549.88,29550.01,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1d1,,6506.52,-2272,26550,29150,Column Rectangular Concrete_HERA22,Rectangle,1000,2800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1da,,12916.52,-12922,26549.9,29550.03,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1db,,50556.52,-22122,26549.95,29550.1,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1df,,63616.52,-20972,26549.99,29550.14,Column Rectangular Concrete_HERA22,Rectangle,350,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1e2,,45711.52,-5172,29550.11,32549.92,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1e8,,45711.52,-2272,29550.11,32549.92,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1e9,,32406.52,-5172,29550.11,32150,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1ea,,32406.52,-2272,29550.11,32549.92,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1eb,,63616.52,-12672,29550.13,32549.96,Column Rectangular Concrete_HERA22,Rectangle,350,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1ee,,56.52,-13372,29550.1,32549.9,Column Rectangular Concrete_HERA22,Rectangle,600,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1f1,,4666.52,-13372,29550.1,32549.9,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1f2,,56.52,-21992,29550.1,32549.9,Column Rectangular Concrete_HERA22,Rectangle,600,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1f3,,4666.52,-21992,29550.1,32549.9,Column Rectangular Concrete_HERA22,Rectangle,750,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1f4,,4666.52,-27422,29550.1,32549.9,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1f5,,13606.52,-5172,29550.11,32150,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1f6,,13606.52,-2272,29550.11,32549.92,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1f8,,54256.52,-2272,29550.11,32549.91,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1f9,,54256.52,-5172,29550.11,32549.91,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1fa,,62906.52,-2272,29550.11,32549.91,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1fb,,62906.52,-5172,29550.11,32549.91,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1fc,,41856.52,-5172,29550.11,32549.92,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a1fd,,40806.52,-12822,29550.11,32549.91,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a200,,43706.52,-12822,29550.11,32549.91,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a204,,23006.52,-5172,29550.06,32150,Column Rectangular Precast Concrete_HERA22,Rectangle,1200,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a20d,,32406.52,-12822,29550.03,32549.86,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a210,,32406.52,-19742,29550.03,32549.86,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a211,,12916.52,-19122,29550.03,32549.86,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a212,,12916.52,-28362,29550.01,32549.83,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a215,,21316.52,-28362,29550.01,32549.83,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a216,,24006.52,-28362,29550.01,32549.83,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a217,,32406.52,-28362,29550.01,32549.83,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a218,,51456.42,-12822,29550.09,32549.94,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a21b,,55116.52,-12822,29550.09,32549.94,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a21c,,41406.52,-29886.98,29550.01,32549.83,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a21d,,50556.52,-29886.98,29550.01,32549.83,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a21e,,5506.52,-2272,29550,32549.91,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a227,,12916.52,-12922,29550.03,32549.86,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a228,,50556.52,-22122,29550.1,32549.95,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a22c,,63616.52,-20972,29550.14,32549.99,Column Rectangular Concrete_HERA22,Rectangle,350,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a22f,,45711.52,-5172,32549.92,35550.03,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a235,,45711.52,-2272,32549.92,35550.03,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a236,,32406.52,-5172,32549.92,35150,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a237,,32406.52,-2272,32549.92,35550.03,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a238,,63616.52,-12672,32549.96,35550.09,Column Rectangular Concrete_HERA22,Rectangle,350,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a23b,,56.52,-13372,32549.9,35550,Column Rectangular Concrete_HERA22,Rectangle,600,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a23e,,4666.52,-13372,32549.9,35550,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a23f,,56.52,-21992,32549.9,35550,Column Rectangular Concrete_HERA22,Rectangle,600,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a240,,4666.52,-21992,32549.9,35550,Column Rectangular Concrete_HERA22,Rectangle,750,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a241,,4666.52,-27422,32549.9,35550,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a242,,13606.52,-5172,32549.92,35150,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a243,,13606.52,-2272,32549.92,35550.03,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a245,,54256.52,-2272,32549.91,35550.01,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a246,,54256.52,-5172,32549.91,35550.01,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a247,,62906.52,-2272,32549.91,35550.01,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a248,,62906.52,-5172,32549.91,35550.01,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a249,,41856.52,-5172,32549.92,35550.03,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a24a,,40806.52,-12822,32549.91,35550.02,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a24d,,43706.52,-12822,32549.91,35550.02,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a251,,23006.52,-5172,32549.92,35150,Column Rectangular Concrete_HERA22,Rectangle,1200,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a257,,32406.52,-12822,32549.86,35550,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a25a,,32406.52,-19742,32549.86,35550,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a25b,,12916.52,-19122,32549.86,35550,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a25c,,12916.52,-28362,32549.83,35549.96,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a25f,,21316.52,-28362,32549.83,35549.96,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a260,,24006.52,-28362,32549.83,35549.96,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a261,,32406.52,-28362,32549.83,35549.96,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a262,,51456.42,-12822,32549.94,35550.08,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a265,,55116.52,-12822,32549.94,35550.08,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a266,,41406.52,-29886.98,32549.83,35549.96,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a267,,50556.52,-29886.98,32549.83,35549.96,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a268,,5506.52,-2272,32549.91,35550.05,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a271,,12916.52,-12922,32549.86,35550,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a272,,50556.52,-22122,32549.95,35550.09,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a276,,63616.52,-20972,32549.99,35550.14,Column Rectangular Concrete_HERA22,Rectangle,350,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a279,,45711.52,-5172,35550.03,40160,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a27f,,45711.52,-2272,35550.03,40510,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a280,,32406.52,-5172,35550.03,40160,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a281,,32406.52,-2272,35550.03,40160,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a282,,63616.52,-12672,35550.09,39850,Column Rectangular Concrete_HERA22,Rectangle,350,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a285,,56.52,-13372,35550,40500,Column Rectangular Concrete_HERA22,Rectangle,600,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a288,,4666.52,-13372,35550,39400,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a289,,56.52,-21992,35550,40500,Column Rectangular Concrete_HERA22,Rectangle,600,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a28a,,4666.52,-21992,35550,40300,Column Rectangular Concrete_HERA22,Rectangle,750,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a28b,,4666.52,-27422,35550,40500,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a28c,,13606.52,-5172,35550.03,40160,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a28d,,13606.52,-2272,35550.03,40160,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a28f,,54256.52,-2272,35550.01,39450,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a290,,54256.52,-5172,35550.01,40510,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a291,,62906.52,-2272,35550.01,39450,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a292,,62906.52,-5172,35550.01,39450,Column Rectangular Concrete_HERA22,Rectangle,300,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a293,,41856.52,-5172,35550.03,39260,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a294,,40806.52,-12822,35550.02,39260,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a297,,43706.52,-12822,35550.02,39260,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a29b,,23006.52,-5172,35550.09,40160,Column Rectangular Concrete_HERA22,Rectangle,1200,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2a1,,32406.52,-12822,35550,40300,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2a4,,32406.52,-19742,35550,39260,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2a5,,12916.52,-19122,35550,39260,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2a6,,12916.52,-28362,35549.96,39260,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2a9,,21316.52,-28362,35549.96,40160,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2aa,,24006.52,-28362,35549.96,40160,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2ab,,32406.52,-28362,35549.96,39260,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2ac,,51456.42,-12822,35550.08,39260,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2af,,55116.52,-12822,35550.08,39260,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2b0,,41406.52,-29886.98,35549.96,40160,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2b1,,50556.52,-29886.98,35549.96,39850,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2b2,,5506.52,-2272,35550.05,40160,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2bb,,12916.52,-12922,35550,39260,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2bc,,50556.52,-22122,35550.09,39260,Column Rectangular Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2c0,,63616.52,-20972,35550.14,39850,Column Rectangular Concrete_HERA22,Rectangle,350,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2d6,,50540.62,-27467.5,44349.93,47799.96,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2d9,,5506.52,-2272,44350.03,47800.06,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2dc,,-1088.46,-27440.91,44350.03,47800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2df,,4710.8,-27414.36,44350.03,47800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2e0,,12922.57,-27412.36,44350.03,47800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2e1,,40812.08,-27414.09,44350.03,47800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2e2,,32397.75,-27408.56,44350.03,47800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2e6,,45711.52,-5171.97,44350.03,47800.06,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2e7,,12916.52,-18972,44350.03,47800.06,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2ed,,13606.52,-12672,44350.03,47800.06,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2f1,,32406.52,-13272,44350.03,47800.06,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2f8,,32406.52,-20000,44350.03,47800.06,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2fa,,5021.52,-22092,44350.03,47800.06,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a2fd,,-43.47,-22092,44350.03,47800.06,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a300,,5021.52,-13372,44350.03,47800.06,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a301,,6.53,-13372,44350.03,47800.06,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a305,,21171.52,-25722,44350.03,47800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a308,,24841.52,-25722,44350.03,47800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a30c,,50540.62,-27467.5,47799.96,51249.99,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a30f,,5506.52,-2272,47800.06,51250.09,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a312,,-1088.46,-27440.91,47800.05,51250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a315,,4710.8,-27414.36,47800.05,51250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a316,,12922.57,-27412.36,47800.05,51250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a317,,40812.08,-27414.09,47800.05,51250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a318,,32397.75,-27408.56,47800.05,51250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a31c,,45711.52,-5171.97,47800.06,51250.09,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a31d,,12916.52,-18972,47800.06,51250.09,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a323,,13606.52,-12672,47800.06,51250.1,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a327,,32406.52,-13272,47800.06,51250.1,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a32e,,32406.52,-20000,47800.06,51250.09,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a330,,5021.52,-22092,47800.06,51250.09,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a333,,-43.47,-22092,47800.06,51250.09,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a336,,5021.52,-13372,47800.06,51250.09,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a337,,6.53,-13372,47800.06,51250.09,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a33b,,21171.52,-25722,47800.05,51250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a33e,,24841.52,-25722,47800.05,51250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a342,,50540.62,-27467.5,51249.99,54700.02,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a345,,5506.52,-2272,51250.09,54700.12,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a348,,-1088.46,-27440.91,51250.08,54700.1,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a34b,,4710.8,-27414.36,51250.08,54700.1,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a34c,,12922.57,-27412.36,51250.08,54700.1,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a34d,,40812.08,-27414.09,51250.08,54700.1,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a34e,,32397.75,-27408.56,51250.08,54700.1,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a352,,45711.52,-5171.97,51250.09,54700.12,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a353,,12916.52,-18972,51250.09,54700.12,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a359,,13606.52,-12672,51250.1,54700.13,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a35d,,32406.52,-13272,51250.1,54700.13,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a364,,32406.52,-20000,51250.09,54700.12,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a366,,5021.52,-22092,51250.09,54700.12,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a369,,-43.47,-22092,51250.09,54700.12,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a36c,,5021.52,-13372,51250.09,54700.12,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a36d,,6.53,-13372,51250.09,54700.12,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a371,,21171.52,-25722,51250.08,54700.1,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a374,,24841.52,-25722,51250.08,54700.1,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a378,,50540.62,-27467.5,54700.02,58149.74,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a37b,,5506.52,-2272,54700.12,58149.84,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a37e,,-1088.46,-27440.91,54700.1,58149.83,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a381,,4710.8,-27414.36,54700.1,58149.83,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a382,,12922.57,-27412.36,54700.1,58149.83,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a383,,40812.08,-27414.09,54700.1,58149.83,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a384,,32397.75,-27408.56,54700.1,58149.83,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a388,,45711.52,-5171.97,54700.12,58149.84,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a389,,12916.52,-18972,54700.12,58149.85,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a38f,,13606.52,-12672,54700.13,58149.85,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a393,,32406.52,-13272,54700.13,58149.85,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a39a,,32406.52,-20000,54700.12,58149.85,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a39c,,5021.52,-22092,54700.12,58149.85,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a39f,,-43.47,-22092,54700.12,58149.85,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3a2,,5021.52,-13372,54700.12,58149.85,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3a3,,6.53,-13372,54700.12,58149.85,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3a7,,21171.52,-25722,54700.1,58149.83,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3aa,,24841.52,-25722,54700.1,58149.83,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3ae,,50540.62,-27467.5,58149.74,61599.77,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3b1,,5506.52,-2272,58149.84,61599.87,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3b4,,-1088.46,-27440.91,58149.83,61599.85,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3b7,,4710.8,-27414.36,58149.83,61599.85,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3b8,,12922.57,-27412.36,58149.83,61599.85,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3b9,,40812.08,-27414.09,58149.83,61599.85,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3ba,,32397.75,-27408.56,58149.83,61599.85,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3be,,45711.52,-5171.97,58149.84,61599.87,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3bf,,12916.52,-18972,58149.85,61599.88,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3c5,,13606.52,-12672,58149.85,61599.89,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3c9,,32406.52,-13272,58149.85,61599.89,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3d0,,32406.52,-20000,58149.85,61599.88,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3d2,,5021.52,-22092,58149.85,61599.88,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3d5,,-43.47,-22092,58149.85,61599.88,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3d8,,5021.52,-13372,58149.85,61599.88,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3d9,,6.53,-13372,58149.85,61599.88,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3dd,,21171.52,-25722,58149.83,61599.85,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3e0,,24841.52,-25722,58149.83,61599.85,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3e4,,50540.62,-27467.5,61599.77,65049.8,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3e7,,5506.52,-2272,61599.87,65049.9,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3ea,,-1088.46,-27440.91,61599.85,65049.88,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3ed,,4710.8,-27414.36,61599.85,65049.88,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3ee,,12922.57,-27412.36,61599.85,65049.88,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3ef,,40812.08,-27414.09,61599.85,65049.88,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3f0,,32397.75,-27408.56,61599.85,65049.88,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3f4,,45711.52,-5171.97,61599.87,65049.9,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3f5,,12916.52,-18972,61599.88,65049.91,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3fb,,13606.52,-12672,61599.89,65049.92,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a3ff,,32406.52,-13272,61599.89,65049.92,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a406,,32406.52,-20000,61599.88,65049.91,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a408,,5021.52,-22092,61599.88,65049.91,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a40b,,-43.47,-22092,61599.88,65049.91,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a40e,,5021.52,-13372,61599.88,65049.91,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a40f,,6.53,-13372,61599.88,65049.91,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a413,,21171.52,-25722,61599.85,65049.88,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a416,,24841.52,-25722,61599.85,65049.88,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a41a,,50540.62,-27467.5,65049.8,68499.83,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a41d,,5506.52,-2272,65049.9,68499.93,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a420,,-1088.46,-27440.91,65049.88,68499.9,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a423,,4710.8,-27414.36,65049.88,68499.9,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a424,,12922.57,-27412.36,65049.88,68499.9,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a425,,40812.08,-27414.09,65049.88,68499.9,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a426,,32397.75,-27408.56,65049.88,68499.9,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a42a,,45711.52,-5171.97,65049.9,68499.93,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a42b,,12916.52,-18972,65049.91,68499.94,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a431,,13606.52,-12672,65049.92,68499.95,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a435,,32406.52,-13272,65049.92,68499.95,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a43c,,32406.52,-20000,65049.91,68499.94,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a43e,,5021.52,-22092,65049.91,68499.94,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a441,,-43.47,-22092,65049.91,68499.94,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a444,,5021.52,-13372,65049.91,68499.94,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a445,,6.53,-13372,65049.91,68499.94,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a449,,21171.52,-25722,65049.88,68499.9,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a44c,,24841.52,-25722,65049.88,68499.9,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a450,,50540.62,-27467.5,68499.83,71949.86,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a453,,5506.52,-2272,68499.93,71949.96,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a456,,-1088.46,-27440.91,68499.9,71949.93,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a459,,4710.8,-27414.36,68499.9,71949.93,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a45a,,12922.57,-27412.36,68499.9,71949.93,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a45b,,40812.08,-27414.09,68499.9,71949.93,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a45c,,32397.75,-27408.56,68499.9,71949.93,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a460,,45711.52,-5171.97,68499.93,71949.96,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a461,,12916.52,-18972,68499.94,71949.97,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a467,,13606.52,-12672,68499.95,71949.98,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a46b,,32406.52,-13272,68499.95,71949.98,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a472,,32406.52,-20000,68499.94,71949.97,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a474,,5021.52,-22092,68499.94,71949.97,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a477,,-43.47,-22092,68499.94,71949.97,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a47a,,5021.52,-13372,68499.94,71949.97,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a47b,,6.53,-13372,68499.94,71949.97,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a47f,,21171.52,-25722,68499.9,71949.93,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a482,,24841.52,-25722,68499.9,71949.93,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a486,,50540.62,-27467.5,71949.86,75399.89,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a489,,5506.52,-2272,71949.96,75399.99,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a48c,,-1088.46,-27440.91,71949.93,75399.96,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a48f,,4710.8,-27414.36,71949.93,75399.96,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a490,,12922.57,-27412.36,71949.93,75399.96,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a491,,40812.08,-27414.09,71949.93,75399.96,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a492,,32397.75,-27408.56,71949.93,75399.96,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a496,,45711.52,-5171.97,71949.96,75399.99,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a497,,12916.52,-18972,71949.97,75400,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a49d,,13606.52,-12672,71949.98,75400.01,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4a1,,32406.52,-13272,71949.98,75400.01,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4a8,,32406.52,-20000,71949.97,75400,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4aa,,5021.52,-22092,71949.97,75400,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4ad,,-43.47,-22092,71949.97,75400,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4b0,,5021.52,-13372,71949.97,75400,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4b1,,6.53,-13372,71949.97,75400,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4b5,,21171.52,-25722,71949.93,75399.96,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4b8,,24841.52,-25722,71949.93,75399.96,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4bc,,50540.62,-27467.5,75399.89,78849.92,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4bf,,5506.52,-2272,75399.99,78850.02,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4c2,,-1088.46,-27440.91,75399.96,78849.98,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4c5,,4710.8,-27414.36,75399.96,78849.98,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4c6,,12922.57,-27412.36,75399.96,78849.98,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4c7,,40812.08,-27414.09,75399.96,78849.98,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4c8,,32397.75,-27408.56,75399.96,78849.98,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4cc,,45711.52,-5171.97,75399.99,78850.02,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4cd,,12916.52,-18972,75400,78850.03,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4d3,,13606.52,-12672,75400.01,78850.05,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4d7,,32406.52,-13272,75400.01,78850.05,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4de,,32406.52,-20000,75400,78850.03,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4e0,,5021.52,-22092,75400,78850.03,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4e3,,-43.47,-22092,75400,78850.03,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4e6,,5021.52,-13372,75400,78850.03,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4e7,,6.53,-13372,75400,78850.03,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4eb,,21171.52,-25722,75399.96,78849.98,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4ee,,24841.52,-25722,75399.96,78849.98,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4f2,,50540.62,-27467.5,78849.92,82299.95,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4f5,,5506.52,-2272,78850.02,82300.04,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4f8,,-1088.46,-27440.91,78849.98,82300.01,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4fb,,4710.8,-27414.36,78849.98,82300.01,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4fc,,12922.57,-27412.36,78849.98,82300.01,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4fd,,40812.08,-27414.09,78849.98,82300.01,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a4fe,,32397.75,-27408.56,78849.98,82300.01,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a502,,45711.52,-5171.97,78850.02,82300.04,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a503,,12916.52,-18972,78850.03,82300.06,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a509,,13606.52,-12672,78850.05,82300.08,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a50d,,32406.52,-13272,78850.05,82300.08,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a514,,32406.52,-20000,78850.03,82300.06,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a516,,5021.52,-22092,78850.03,82300.06,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a519,,-43.47,-22092,78850.03,82300.06,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a51c,,5021.52,-13372,78850.03,82300.06,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a51d,,6.53,-13372,78850.03,82300.06,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a521,,21171.52,-25722,78849.98,82300.01,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a524,,24841.52,-25722,78849.98,82300.01,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a528,,50540.62,-27467.5,82299.95,85749.98,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a52b,,5506.52,-2272,82300.04,85750.07,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a52e,,-1088.46,-27440.91,82300.01,85750.03,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a531,,4710.8,-27414.36,82300.01,85750.03,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a532,,12922.57,-27412.36,82300.01,85750.03,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a533,,40812.08,-27414.09,82300.01,85750.03,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a534,,32397.75,-27408.56,82300.01,85750.03,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a538,,45711.52,-5171.97,82300.04,85750.07,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a539,,12916.52,-18972,82300.06,85750.09,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a53f,,13606.52,-12672,82300.08,85750.11,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a543,,32406.52,-13272,82300.08,85750.11,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a54a,,32406.52,-20000,82300.06,85750.09,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a54c,,5021.52,-22092,82300.06,85750.09,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a54f,,-43.47,-22092,82300.06,85750.09,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a552,,5021.52,-13372,82300.06,85750.09,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a553,,6.53,-13372,82300.06,85750.09,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a557,,21171.52,-25722,82300.01,85750.03,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a55a,,24841.52,-25722,82300.01,85750.03,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a55e,,50540.62,-27467.5,85749.98,89200.01,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a561,,5506.52,-2272,85750.07,89200.1,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a564,,-1088.46,-27440.91,85750.03,89200.06,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a567,,4710.8,-27414.36,85750.03,89200.06,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a568,,12922.57,-27412.36,85750.03,89200.06,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a569,,40812.08,-27414.09,85750.03,89200.06,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a56a,,32397.75,-27408.56,85750.03,89200.06,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a56e,,45711.52,-5171.97,85750.07,89200.1,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a56f,,12916.52,-18972,85750.09,89200.12,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a575,,13606.52,-12672,85750.11,89200.14,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a579,,32406.52,-13272,85750.11,89200.14,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a580,,32406.52,-20000,85750.09,89200.12,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a582,,5021.52,-22092,85750.09,89200.12,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a585,,-43.47,-22092,85750.09,89200.12,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a588,,5021.52,-13372,85750.09,89200.12,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a589,,6.53,-13372,85750.09,89200.12,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a58d,,21171.52,-25722,85750.03,89200.06,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a590,,24841.52,-25722,85750.03,89200.06,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a594,,50540.62,-27467.5,89200.01,92649.73,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a597,,5506.52,-2272,89200.1,92649.83,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a59a,,-1088.46,-27440.91,89200.06,92649.78,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a59d,,4710.8,-27414.36,89200.06,92649.78,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a59e,,12922.57,-27412.36,89200.06,92649.78,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a59f,,40812.08,-27414.09,89200.06,92649.78,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5a0,,32397.75,-27408.56,89200.06,92649.78,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5a4,,45711.52,-5171.97,89200.1,92649.83,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5a5,,12916.52,-18972,89200.12,92649.84,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5ab,,13606.52,-12672,89200.14,92649.87,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5af,,32406.52,-13272,89200.14,92649.87,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5b6,,32406.52,-20000,89200.12,92649.84,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5b8,,5021.52,-22092,89200.12,92649.84,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5bb,,-43.47,-22092,89200.12,92649.84,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5be,,5021.52,-13372,89200.12,92649.84,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5bf,,6.53,-13372,89200.12,92649.84,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5c3,,21171.52,-25722,89200.06,92649.78,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5c6,,24841.52,-25722,89200.06,92649.78,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5ca,,50540.62,-27467.5,92649.73,96099.76,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5cd,,5506.52,-2272,92649.83,96099.86,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5d0,,-1088.46,-27440.91,92649.78,96099.81,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5d3,,4710.8,-27414.36,92649.78,96099.81,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5d4,,12922.57,-27412.36,92649.78,96099.81,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5d5,,40812.08,-27414.09,92649.78,96099.81,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5d6,,32397.75,-27408.56,92649.78,96099.81,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5da,,45711.52,-5171.97,92649.83,96099.86,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5db,,12916.52,-18972,92649.84,96099.87,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5e1,,13606.52,-12672,92649.87,96099.9,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5e5,,32406.52,-13272,92649.87,96099.9,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5ec,,32406.52,-20000,92649.84,96099.87,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5ee,,5021.52,-22092,92649.84,96099.87,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5f1,,-43.47,-22092,92649.84,96099.87,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5f4,,5021.52,-13372,92649.84,96099.87,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5f5,,6.53,-13372,92649.84,96099.87,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5f9,,21171.52,-25722,92649.78,96099.81,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a5fc,,24841.52,-25722,92649.78,96099.81,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a600,,50540.62,-27467.5,96099.76,99549.79,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a603,,5506.52,-2272,96099.86,99549.89,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a606,,-1088.46,-27440.91,96099.81,99549.83,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a609,,4710.8,-27414.36,96099.81,99549.83,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a60a,,12922.57,-27412.36,96099.81,99549.83,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a60b,,40812.08,-27414.09,96099.81,99549.83,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a60c,,32397.75,-27408.56,96099.81,99549.83,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a610,,45711.52,-5171.97,96099.86,99549.89,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a611,,12916.52,-18972,96099.87,99549.9,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a617,,13606.52,-12672,96099.9,99549.93,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a61b,,32406.52,-13272,96099.9,99549.93,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a622,,32406.52,-20000,96099.87,99549.9,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a624,,5021.52,-22092,96099.87,99549.9,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a627,,-43.47,-22092,96099.87,99549.9,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a62a,,5021.52,-13372,96099.87,99549.9,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a62b,,6.53,-13372,96099.87,99549.9,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a62f,,21171.52,-25722,96099.81,99549.83,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a632,,24841.52,-25722,96099.81,99549.83,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a636,,50540.62,-27467.5,99549.79,102999.82,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a639,,5506.52,-2272,99549.89,102999.91,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a63c,,-1088.46,-27440.91,99549.83,102999.86,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a63f,,4710.8,-27414.36,99549.83,102999.86,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a640,,12922.57,-27412.36,99549.83,102999.86,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a641,,40812.08,-27414.09,99549.83,102999.86,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a642,,32397.75,-27408.56,99549.83,102999.86,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a646,,45711.52,-5171.97,99549.89,102999.91,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a647,,12916.52,-18972,99549.9,102999.93,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a64d,,13606.52,-12672,99549.93,102999.96,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a651,,32406.52,-13272,99549.93,102999.96,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a658,,32406.52,-20000,99549.9,102999.93,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a65a,,5021.52,-22092,99549.9,102999.93,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a65d,,-43.47,-22092,99549.9,102999.93,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a660,,5021.52,-13372,99549.9,102999.93,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a661,,6.53,-13372,99549.9,102999.93,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a665,,21171.52,-25722,99549.83,102999.86,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a668,,24841.52,-25722,99549.83,102999.86,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a66c,,50540.62,-27467.5,102999.82,106449.85,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a66f,,5506.52,-2272,102999.91,106449.94,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a672,,-1088.46,-27440.91,102999.86,106449.89,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a675,,4710.8,-27414.36,102999.86,106449.89,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a676,,12922.57,-27412.36,102999.86,106449.89,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a677,,40812.08,-27414.09,102999.86,106449.89,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a678,,32397.75,-27408.56,102999.86,106449.89,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a67c,,45711.52,-5171.97,102999.91,106449.94,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a67d,,12916.52,-18972,102999.93,106449.96,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a683,,13606.52,-12672,102999.96,106450,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a687,,32406.52,-13272,102999.96,106450,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a68e,,32406.52,-20000,102999.93,106449.96,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a690,,5021.52,-22092,102999.93,106449.96,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a693,,-43.47,-22092,102999.93,106449.96,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a696,,5021.52,-13372,102999.93,106449.96,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a697,,6.53,-13372,102999.93,106449.96,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a69b,,21171.52,-25722,102999.86,106449.89,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a69e,,24841.52,-25722,102999.86,106449.89,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6a2,,50540.62,-27467.5,106449.85,109899.88,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6a5,,5506.52,-2272,106449.94,109899.97,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6a8,,-1088.46,-27440.91,106449.89,109899.91,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6ab,,4710.8,-27414.36,106449.89,109899.91,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6ac,,12922.57,-27412.36,106449.89,109899.91,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6ad,,40812.08,-27414.09,106449.89,109899.91,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6ae,,32397.75,-27408.56,106449.89,109899.91,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6b2,,45711.52,-5171.97,106449.94,109899.97,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6b3,,12916.52,-18972,106449.96,109899.99,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6b9,,13606.52,-12672,106450,109900.03,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6bd,,32406.52,-13272,106450,109900.03,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6c4,,32406.52,-20000,106449.96,109899.99,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6c6,,5021.52,-22092,106449.96,109899.99,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6c9,,-43.47,-22092,106449.96,109899.99,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6cc,,5021.52,-13372,106449.96,109899.99,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6cd,,6.53,-13372,106449.96,109899.99,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6d1,,21171.52,-25722,106449.89,109899.91,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6d4,,24841.52,-25722,106449.89,109899.91,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6d8,,50540.62,-27467.5,109899.88,113349.91,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6db,,5506.52,-2272,109899.97,113350,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6de,,-1088.46,-27440.91,109899.91,113349.94,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6e1,,4710.8,-27414.36,109899.91,113349.94,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6e2,,12922.57,-27412.36,109899.91,113349.94,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6e3,,40812.08,-27414.09,109899.91,113349.94,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6e4,,32397.75,-27408.56,109899.91,113349.94,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6e8,,45711.52,-5171.97,109899.97,113350,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6e9,,12916.52,-18972,109899.99,113350.02,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6ef,,13606.52,-12672,109900.03,113350.06,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6f3,,32406.52,-13272,109900.03,113350.06,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6fa,,32406.52,-20000,109899.99,113350.02,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6fc,,5021.52,-22092,109899.99,113350.02,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a6ff,,-43.47,-22092,109899.99,113350.02,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a702,,5021.52,-13372,109899.99,113350.02,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a703,,6.53,-13372,109899.99,113350.02,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a707,,21171.52,-25722,109899.91,113349.94,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a70a,,24841.52,-25722,109899.91,113349.94,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a70e,,50540.62,-27467.5,113349.91,116799.94,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a711,,5506.52,-2272,113350,116800.03,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a714,,-1088.46,-27440.91,113349.94,116799.96,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a717,,4710.8,-27414.36,113349.94,116799.96,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a718,,12922.57,-27412.36,113349.94,116799.96,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a719,,40812.08,-27414.09,113349.94,116799.96,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a71a,,32397.75,-27408.56,113349.94,116799.96,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a71e,,45711.52,-5171.97,113350,116800.03,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a71f,,12916.52,-18972,113350.02,116800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a725,,13606.52,-12672,113350.06,116800.09,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a729,,32406.52,-13272,113350.06,116800.09,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a730,,32406.52,-20000,113350.02,116800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a732,,5021.52,-22092,113350.02,116800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a735,,-43.47,-22092,113350.02,116800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a738,,5021.52,-13372,113350.02,116800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a739,,6.53,-13372,113350.02,116800.05,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a73d,,21171.52,-25722,113349.94,116799.96,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a740,,24841.52,-25722,113349.94,116799.96,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a744,,50540.62,-27467.5,116799.94,120249.97,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a747,,5506.52,-2272,116800.03,120250.06,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a74a,,-1088.46,-27440.91,116799.96,120249.99,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a74d,,4710.8,-27414.36,116799.96,120249.99,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a74e,,12922.57,-27412.36,116799.96,120249.99,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a74f,,40812.08,-27414.09,116799.96,120249.99,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a750,,32397.75,-27408.56,116799.96,120249.99,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a754,,45711.52,-5171.97,116800.03,120250.06,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a755,,12916.52,-18972,116800.05,120250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a75b,,13606.52,-12672,116800.09,120250.12,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a75f,,32406.52,-13272,116800.09,120250.12,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a766,,32406.52,-20000,116800.05,120250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a768,,5021.52,-22092,116800.05,120250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a76b,,-43.47,-22092,116800.05,120250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a76e,,5021.52,-13372,116800.05,120250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a76f,,6.53,-13372,116800.05,120250.08,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a773,,21171.52,-25722,116799.96,120249.99,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a776,,24841.52,-25722,116799.96,120249.99,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a77a,,50540.62,-27467.5,120249.97,123700,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a77d,,5506.52,-2272,120250.06,123700.09,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a780,,-1088.46,-27440.91,120249.99,123700.02,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a783,,4710.8,-27414.36,120249.99,123700.02,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a784,,12922.57,-27412.36,120249.99,123700.02,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a785,,40812.08,-27414.09,120249.99,123700.02,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a786,,32397.75,-27408.56,120249.99,123700.02,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a78a,,45711.52,-5171.97,120250.06,123700.09,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a78b,,12916.52,-18972,120250.08,123700.11,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a791,,13606.52,-12672,120250.12,123700.15,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a795,,32406.52,-13272,120250.12,123700.15,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a79c,,32406.52,-20000,120250.08,123700.11,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a79e,,5021.52,-22092,120250.08,123700.11,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7a1,,-43.47,-22092,120250.08,123700.11,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7a4,,5021.52,-13372,120250.08,123700.11,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7a5,,6.53,-13372,120250.08,123700.11,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7a9,,21171.52,-25722,120249.99,123700.02,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7ac,,24841.52,-25722,120249.99,123700.02,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7b0,,50540.62,-27467.5,123700,127149.72,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7b3,,5506.52,-2272,123700.09,127149.81,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7b6,,-1088.46,-27440.91,123700.02,127149.74,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7b9,,4710.8,-27414.36,123700.02,127149.74,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7ba,,12922.57,-27412.36,123700.02,127149.74,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7bb,,40812.08,-27414.09,123700.02,127149.74,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7bc,,32397.75,-27408.56,123700.02,127149.74,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7c0,,45711.52,-5171.97,123700.09,127149.81,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7c1,,12916.52,-18972,123700.11,127149.84,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7c7,,13606.52,-12672,123700.15,127149.88,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7cb,,32406.52,-13272,123700.15,127149.88,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7d2,,32406.52,-20000,123700.11,127149.84,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7d4,,5021.52,-22092,123700.11,127149.84,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7d7,,-43.47,-22092,123700.11,127149.84,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7da,,5021.52,-13372,123700.11,127149.84,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7db,,6.53,-13372,123700.11,127149.84,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7df,,21171.52,-25722,123700.02,127149.74,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7e2,,24841.52,-25722,123700.02,127149.74,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7e9,,50540.62,-27467.5,127149.72,130599.75,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7ec,,5506.52,-2272,127149.81,130599.84,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7ef,,-1088.46,-27440.91,127149.74,130599.76,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7f2,,4710.8,-27414.36,127149.74,130599.76,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7f3,,12922.57,-27412.36,127149.74,130599.76,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7f4,,40812.08,-27414.09,127149.74,130599.76,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7f5,,32397.75,-27408.56,127149.74,130599.76,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7f9,,45711.52,-5171.97,127149.81,130599.84,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a7fa,,12916.52,-18972,127149.84,130599.87,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a800,,13606.52,-12672,127149.88,130599.91,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a804,,32406.52,-13272,127149.88,130599.91,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a80b,,32406.52,-20000,127149.84,130599.87,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a80d,,5021.52,-22092,127149.84,130599.87,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a810,,-43.47,-22092,127149.84,130599.87,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a813,,5021.52,-13372,127149.84,130599.87,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a814,,6.53,-13372,127149.84,130599.87,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a818,,21171.52,-25722,127149.74,130599.76,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a81b,,24841.52,-25722,127149.74,130599.76,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a822,,50540.62,-27467.5,130599.75,134049.78,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a825,,5506.52,-2272,130599.84,134049.87,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a828,,-1088.46,-27440.91,130599.76,134049.79,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a82b,,4710.8,-27414.36,130599.76,134049.79,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a82c,,12922.57,-27412.36,130599.76,134049.79,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a82d,,40812.08,-27414.09,130599.76,134049.79,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a82e,,32397.75,-27408.56,130599.76,134049.79,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a832,,45711.52,-5171.97,130599.84,134049.87,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a833,,12916.52,-18972,130599.87,134049.9,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a839,,13606.52,-12672,130599.91,134049.94,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a83d,,32406.52,-13272,130599.91,134049.94,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a844,,32406.52,-20000,130599.87,134049.9,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a846,,5021.52,-22092,130599.87,134049.9,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a849,,-43.47,-22092,130599.87,134049.9,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a84c,,5021.52,-13372,130599.87,134049.9,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a84d,,6.53,-13372,130599.87,134049.9,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a851,,21171.52,-25722,130599.76,134049.79,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a854,,24841.52,-25722,130599.76,134049.79,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a85b,,50540.62,-27467.5,134049.78,141499.78,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a85e,,5506.52,-2272,134049.87,141000,Column Circular Concrete_HERA22,Circular,750,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a861,,-1088.46,-27440.91,134049.79,141499.79,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a864,,4710.8,-27414.36,134049.79,141499.79,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a865,,12922.57,-27412.36,134049.79,141499.79,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a866,,40812.08,-27414.09,134049.79,141499.79,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a867,,32397.75,-27408.56,134049.79,141499.79,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a86b,,45711.52,-5171.97,134049.87,141000,Column Circular Concrete_HERA22,Circular,850,0
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a86c,,12916.52,-18972,134049.9,141100,Column Rectangular Precast Concrete_HERA22,Rectangle,500,1000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a872,,13606.52,-12672,134049.94,141300,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a876,,32406.52,-13272,134049.94,141300,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a87d,,32406.52,-20000,134049.9,141100,Column Rectangular Precast Concrete_HERA22,Rectangle,300,1800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a87f,,5021.52,-22092,134049.9,141100,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a882,,-43.47,-22092,134049.9,141100,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a885,,5021.52,-13372,134049.9,141100,Column Rectangular Precast Concrete_HERA22,Rectangle,400,2500
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a886,,6.53,-13372,134049.9,141100,Column Rectangular Precast Concrete_HERA22,Rectangle,400,1200
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a88a,,21171.52,-25722,134049.79,141499.79,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a88d,,24841.52,-25722,134049.79,141499.79,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a891,,50500,-27457.93,141499.78,144500,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a894,,-1088.46,-27440.91,141499.79,144500,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a897,,4710.8,-27414.36,141499.79,144500,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a898,,12902.88,-27387.07,141499.79,144500,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a899,,40812.08,-27414.09,141499.79,144500,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a89a,,32406.52,-26747,141499.79,144500,Column Rectangular Precast Concrete_HERA22,Rectangle,450,800
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a89b,,21171.52,-25722,141499.79,144500,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+cb889803-067b-4ec1-a0d2-92177ebcc65f-0015a89e,,24841.52,-25722,141499.79,144500,Column Rectangular Precast Concrete_HERA22,Rectangle,300,2000
+f7f842eb-c0f0-424a-94d0-cccb70e9078c-00170848,,5216.52,-8171.54,16200,19800,Column Rectangular Concrete_HERA22,Rectangle,500,500
+f7f842eb-c0f0-424a-94d0-cccb70e9078c-001708e2,,5216.52,-16322,16200,19800,Column Rectangular Concrete_HERA22,Rectangle,500,500
+f7f842eb-c0f0-424a-94d0-cccb70e9078c-0017090a,,13606.52,-8171.54,16200,19800,Column Rectangular Concrete_HERA22,Rectangle,500,500
+f7f842eb-c0f0-424a-94d0-cccb70e9078c-0017092e,,17256.52,-5172,16200,19800,Column Rectangular Concrete_HERA22,Rectangle,500,500
+4837061a-48a5-4f87-94e3-5ce4e97f96b0-00170ca2,,5216.52,-16322,19900,23030,Column Rectangular Concrete_HERA22,Rectangle,500,500
+90b52293-114b-4eb9-ab75-568834a7ee11-0018bb72,,41856.52,-2272,20250,26300,Column Rectangular Concrete_HERA22,Rectangle,1000,1000
+90b52293-114b-4eb9-ab75-568834a7ee11-0018bb73,,41856.52,-2272,26550,29550.11,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+90b52293-114b-4eb9-ab75-568834a7ee11-0018bb74,,41856.52,-2272,13050,16350.17,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+90b52293-114b-4eb9-ab75-568834a7ee11-0018bbcb,,41856.52,-2272,16350.17,19835,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+90b52293-114b-4eb9-ab75-568834a7ee11-0018bbcc,,41856.52,-2272,29550.11,32549.92,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+90b52293-114b-4eb9-ab75-568834a7ee11-0018bbcd,,41856.52,-2272,32549.92,35550.03,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+90b52293-114b-4eb9-ab75-568834a7ee11-0018bbce,,41856.52,-2272,35550.03,39260,Column Rectangular Concrete_HERA22,Rectangle,800,1000
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f00b,,41856.52,-2272,40900,44350.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f042,,41856.52,-2272,44350,47800.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f047,,41856.52,-2272,47800,51250.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f04c,,41856.52,-2272,51250,54700.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f051,,41856.52,-2272,54700,58150.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f056,,41856.52,-2272,58150,61600.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f05b,,41856.52,-2272,61600,65050.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f060,,41856.52,-2272,65050,68500.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f065,,41856.52,-2272,68500,71950.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f06a,,41856.52,-2272,71950,75400.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f06f,,41856.52,-2272,75400,78850.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f074,,41856.52,-2272,78850,82300.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f079,,41856.52,-2272,82300,85750.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f07e,,41856.52,-2272,85750,89200.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f083,,41856.52,-2272,89200,92650.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f088,,41856.52,-2272,92650,96100.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f08d,,41856.52,-2272,96100,99550.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f092,,41856.52,-2272,99550,103000.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f097,,41856.52,-2272,103000,106450.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f09c,,41856.52,-2272,106450,109900.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f0a1,,41856.52,-2272,109900,113350.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f0a6,,41856.52,-2272,113350,116800.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f0ab,,41856.52,-2272,116800,120250.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f0b0,,41856.52,-2272,120250,123700.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f0b5,,41856.52,-2272,123700,127150.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f0ba,,41856.52,-2272,127150,130600.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f0bf,,41856.52,-2272,130600,134050.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f0c4,,41856.52,-2272,134050,138800.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f0c9,,41856.52,-2272,138800,141500.03,Column Circular Concrete_HERA22,Circular,750,0
+2740492a-8e75-4cc4-8b4e-01349014726c-0018f0ce,,41856.52,-2272,141500,146650.03,Column Circular Concrete_HERA22,Circular,750,0

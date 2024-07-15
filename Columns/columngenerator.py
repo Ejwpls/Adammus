@@ -77,6 +77,7 @@ test = np.hstack(
     (size_x, size_y, bars_x, bars_y, barsize_lig, barsize_main, fc, A_s, alpha1, alpha2, gamma, N_uo, N_uot))
 maindata = pd.DataFrame(test, columns=['sizex', 'sizey', 'barsx', 'barsy', 'sizelig', 'sizebar', 'fc', 'As', 'alpha1',
                                        'alpha2', 'gamma', 'Nuo', 'Nuot'])
+print(maindata.head())
 del test
 
 
@@ -86,8 +87,7 @@ def axis(size_a, size_b, bars_a, bars_b):
     yc = gamma * df / 2 * ku
 
     # bar layout
-
-    layout = np.ones([len(bars_a), np.max(bars_a)]) * 2
+    layout = np.ones([len(str(bars_a)), np.max(bars_a)]) * 2
     layout[:, 0] = bars_b.T
     idx = np.arange(0, len(bars_a)), (bars_a - 1).T
     layout[idx] = bars_b.T
@@ -96,7 +96,7 @@ def axis(size_a, size_b, bars_a, bars_b):
     layout[idx_end] = 0
 
     # dy for bar spacing
-    dy = np.ones([len(bars_a), np.max(bars_a)])
+    dy = np.ones([len(str(bars_a)), np.max(bars_a)])
     dy = np.cumsum(dy, axis=1) - 1
     dy_inc = (size_a - 2 * cover - 2 * barsize_lig - barsize_main) / (bars_a - 1)
     dy = (dy_inc * dy) + (cover + barsize_lig + barsize_main / 2)
@@ -137,17 +137,27 @@ def axis(size_a, size_b, bars_a, bars_b):
 
     mu_full = np.hstack((mu, temp))
 
+
+
     return np.array([mu_full, nu_full])
 
-# x = np.linspace(-2, 2, 17)
-# X1 = np.stack((x[::2], x[::2]**2))
-# X2 = np.stack((x[1::2], 4 - x[1::2]**2))
-# x_int, y_int = intersect_piecewise(X1, X2)
-# plt.plot(X1[0], X1[1], 'bo-', X2[0], X2[1], 'bo-', x_int, y_int, 'rs')
-# plt.show()
+#x = np.linspace(-2, 2, 17)
+#X1 = np.stack((x[::2], x[::2]**2))
+#X2 = np.stack((x[1::2], 4 - x[1::2]**2))
+#x_int, y_int = intersect_piecewise(X1, X2)
+#plt.plot(X1[0], X1[1], 'bo-', X2[0], X2[1], 'bo-', x_int, y_int, 'rs')
+#plt.show()
 
-# fig, ax = plt.subplots()
-# ax.plot(mu_full[150]/1000, nu_full[150]/1000, color='blue')
-# ax.spines['left'].set_position('zero')
-# ax.spines['bottom'].set_position('zero')
-# plt.show()
+
+result = axis(600, 600, 3, 3)
+mu_full = result[0]
+nu_full = result[1]
+
+print(a)
+
+#fig, ax = plt.subplots()
+#ax.plot(mu_full[150]/1000, nu_full[150]/1000, color='blue')
+#ax.spines['left'].set_position('zero')
+#ax.spines['bottom'].set_position('zero')
+#plt.show()
+
