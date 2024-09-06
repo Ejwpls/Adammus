@@ -9,8 +9,8 @@ def check_reinforcement_constraint(bar_size, spacing, depth, FTG_cover):
     return 250000 * bar_size**2 * np.pi / spacing < 1019.65 * depth**2 / (depth - FTG_cover)
 
 @jit(nopython=True)
-def is_valid_lw(l, w, col_length, col_width):
-    return ((col_length <= col_width and l <= w) or (col_length > col_width and l >= w)) and not (1 < l/w <= 1.1 or 0.9 <= l/w < 1)
+def is_valid_lw(ftg_length, ftg_width, col_length, col_width):
+    return ((col_length <= col_width and ftg_length <= ftg_width) or (col_length > col_width and ftg_length >= ftg_width)) and not (1 < ftg_length/ftg_width <= 1.1 or 0.9 <= ftg_length/ftg_width < 1)
 
 @jit(nopython=True)
 def generate_valid_combinations(col_length, col_width, FTG_cover, ftg_lengths, ftg_widths, ftg_depths, 
@@ -87,9 +87,9 @@ if __name__ == "__main__":
     COL_LENGTH = 0.5
     COL_WIDTH = 0.5
     FTG_COVER = 0.060
-    BEARINGPRESSURE = 500  # Example value, adjust as needed
-    LOAD_DEAD = 8000  # Example value, adjust as needed
-    LOAD_LIVE = 2500  # Example value, adjust as needed
+    BEARINGPRESSURE = 500
+    LOAD_DEAD = 8000
+    LOAD_LIVE = 2500
     
     # Generate arrays and pass them directly to generate_valid_combinations
     results = generate_valid_combinations(
