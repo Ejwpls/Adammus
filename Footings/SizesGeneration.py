@@ -4,14 +4,22 @@ def gen_ranges():
     FTG_CONC_STRENGTHS = [25, 32, 40, 50, 65]
 
     FTG_REO_SIZES = [0.012, 0.016, 0.02, 0.024, 0.028, 0.032, 0.036, 0.04]
-
     FTG_REO_CTS = [0.100, 0.120, 0.125, 0.140, 0.150, 0.160, 0.175, 0.180, 0.200, 0.220, 0.225, 0.240, 0.250, 0.260, 0.275, 0.280, 0.300]
 
+    def ReoArea(size, cts):
+        return (size ** 2 * math.pi*785398.163) / cts
+
+    FTG_REO_COMBINATIONS = sorted(
+        [(size, cts) for size in FTG_REO_SIZES for cts in FTG_REO_CTS],
+        key=lambda x: ReoArea(*x),
+        reverse=True
+    )
 
     return (
         FTG_CONC_STRENGTHS,
         FTG_REO_SIZES,
-        FTG_REO_CTS
+        FTG_REO_CTS,
+        FTG_REO_COMBINATIONS
     )
 
 def gen_starting_values(

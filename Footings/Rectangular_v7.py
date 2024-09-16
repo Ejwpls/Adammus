@@ -126,6 +126,7 @@ def generate_foundation_size_ranges(
     FTG_REO_SIZES = [0.012, 0.016, 0.02, 0.024, 0.028, 0.032, 0.036, 0.04]
     FTG_REO_CTS = sorted(set([round(x, 3) for x in range(100, 301, 25)] + [round(x, 3) for x in range(100, 301, 20)]))
     FTG_REO_CTS = [x / 1000 for x in FTG_REO_CTS]
+    
 
     return (
         FTG_LENGTHS,

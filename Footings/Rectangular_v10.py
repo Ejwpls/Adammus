@@ -1,6 +1,7 @@
 import math
 from dataclasses import dataclass
-from scipy.optimize import minimize
+from scipy.optimize import differential_evolution
+import dataclasses
 
 @dataclass
 class FoundationParams:
@@ -11,10 +12,10 @@ class FoundationParams:
     load_live: float
     bp: float
     fc: float = 25
-    barL: float = 0.012
-    ctsL: float = 0.1
-    barW: float = 0.012
-    ctsW: float = 0.1
+    barL: float = 0.016
+    ctsL: float = 0.2
+    barW: float = 0.016
+    ctsW: float = 0.2
 
 def calculate_SWt(x, params):
     l, w, d = x
@@ -32,10 +33,20 @@ def calculate_BPult(x, params):
     return calculate_Pult(x, params) / (l * w)
 
 def calculate_AstL(x, params):
-    return 250000 / params.ctsL * params.barL**2 * math.pi
+    if len(x) == 3:
+        l, w, d = x
+        barL, ctsL = params.barL, params.ctsL
+    else:
+        l, w, d, barL, ctsL, barW, ctsW = x
+    return 250000 / ctsL * barL**2 * math.pi
 
 def calculate_AstW(x, params):
-    return 250000 / params.ctsW * params.barW**2 * math.pi
+    if len(x) == 3:
+        l, w, d = x
+        barW, ctsW = params.barW, params.ctsW
+    else:
+        l, w, d, barL, ctsL, barW, ctsW = x
+    return 250000 / ctsW * barW**2 * math.pi
 
 def calculate_dsL(x, params):
     l, w, d = x
@@ -68,10 +79,10 @@ def calculate_MultW(x, params):
     return ((7 * params.col_width - 10 * w) ** 2 * (-9 * calculate_SWt(x, params) + 10 * calculate_BPult(x, params) * l * w)) / (8000 * l * w)
 
 def calculate_AstshrL(x, params):
-    return 5 * calculate_MultL(x, params) / (2 * calculate_dsL(x, params))
+    return 100 * calculate_MultL(x, params) / (calculate_dsL(x, params)*(50-9*calculate_gamma(params)))
 
 def calculate_AstshrW(x, params):
-    return 5 * calculate_MultW(x, params) / (2 * calculate_dsW(x, params))
+    return 100 * calculate_MultW(x, params) / (calculate_dsW(x, params)*(50-9*calculate_gamma(params)))
 
 def calculate_AstreqL(x, params):
     return max(calculate_AstminL(x, params), calculate_AstshrL(x, params))
@@ -179,49 +190,81 @@ def calculate_Cost(x, params):
     l, w, d = x
     return (calculate_AstW(x, params) / 1000000 * l + calculate_AstL(x, params) / 1000000 * w) * 7850 * 3.400 + l * w * d * (130.866 * math.exp(params.fc * 0.0111) + 45 + 130) + 2 * d * l * w * 180
 
-def objective_function(x, params):
-    return calculate_Cost(x, params)
+def calculate_ReoRatio(x, params):
+    return max((calculate_AstL(x, params) / calculate_AstreqL(x, params), calculate_AstW(x, params) / calculate_AstreqW(x, params)))
 
-def optimize_foundation(params):
-    initial_guess = [2, 2, 0.5]  # Initial guess for L, W, D
-    bounds = [(max(params.col_length, params.col_width), 10),  # L and W between max(col_length, col_width) and 10m
-              (max(params.col_length, params.col_width), 10),
-              (0.3, 3)]  # D between 0.3m and 3m
-
-    constraints = [
-        {'type': 'ineq', 'fun': lambda x: 1 - calculate_Bpr(x, params)},
-        {'type': 'ineq', 'fun': lambda x: 1 - calculate_Mur(x, params)},
-        {'type': 'ineq', 'fun': lambda x: 1 - calculate_VPr(x, params)},
-        {'type': 'ineq', 'fun': lambda x: 1 - calculate_VOr(x, params)},
-        {'type': 'ineq', 'fun': lambda x: calculate_AstreqL(x, params) - calculate_AstL(x, params)},
-        {'type': 'ineq', 'fun': lambda x: calculate_AstreqW(x, params) - calculate_AstW(x, params)}
-    ]
-
-    result = minimize(objective_function, initial_guess, args=(params,), method='SLSQP', bounds=bounds, constraints=constraints)
-
-    return result.x
+def print_all_results(params, l, w, d, barL, ctsL, barW, ctsW):
+    x = (l, w, d)
+    modified_params = dataclasses.replace(params, barL=barL, ctsL=ctsL, barW=barW, ctsW=ctsW)
+    
+    print(f"Results for L={l:.3f}, W={w:.3f}, D={d:.3f}, barL={barL:.3f}, ctsL={ctsL:.3f}, barW={barW:.3f}, ctsW={ctsW:.3f}")
+    print(f"SWt: {calculate_SWt(x, modified_params):.2f}")
+    print(f"Pult: {calculate_Pult(x, modified_params):.2f}")
+    print(f"BPmax: {calculate_BPmax(x, modified_params):.2f}")
+    print(f"BPult: {calculate_BPult(x, modified_params):.2f}")
+    print(f"AstL: {calculate_AstL(x, modified_params):.2f}")
+    print(f"AstW: {calculate_AstW(x, modified_params):.2f}")
+    print(f"dsL: {calculate_dsL(x, modified_params):.2f}")
+    print(f"dsW: {calculate_dsW(x, modified_params):.2f}")
+    print(f"AstminL: {calculate_AstminL(x, modified_params):.2f}")
+    print(f"AstminW: {calculate_AstminW(x, modified_params):.2f}")
+    print(f"alpha: {calculate_alpha(modified_params):.2f}")
+    print(f"gamma: {calculate_gamma(modified_params):.2f}")
+    print(f"MultL: {calculate_MultL(x, modified_params):.2f}")
+    print(f"MultW: {calculate_MultW(x, modified_params):.2f}")
+    print(f"AstshrL: {calculate_AstshrL(x, modified_params):.2f}")
+    print(f"AstshrW: {calculate_AstshrW(x, modified_params):.2f}")
+    print(f"AstreqL: {calculate_AstreqL(x, modified_params):.2f}")
+    print(f"AstreqW: {calculate_AstreqW(x, modified_params):.2f}")
+    print(f"kuL: {calculate_kuL(x, modified_params):.2f}")
+    print(f"kuW: {calculate_kuW(x, modified_params):.2f}")
+    print(f"phiL: {calculate_phiL(x, modified_params):.2f}")
+    print(f"phiW: {calculate_phiW(x, modified_params):.2f}")
+    print(f"fMuoL: {calculate_fMuoL(x, modified_params):.2f}")
+    print(f"fMuoW: {calculate_fMuoW(x, modified_params):.2f}")
+    print(f"CLR: {calculate_CLR(x, modified_params):.2f}")
+    print(f"VPult: {calculate_VPult(x, modified_params):.2f}")
+    print(f"fcv: {calculate_fcv(modified_params):.2f}")
+    print(f"fVP: {calculate_fVP(x, modified_params):.2f}")
+    print(f"dvL: {calculate_dvL(x, modified_params):.2f}")
+    print(f"dvW: {calculate_dvW(x, modified_params):.2f}")
+    print(f"VOultL: {calculate_VOultL(x, modified_params):.2f}")
+    print(f"VOultW: {calculate_VOultW(x, modified_params):.2f}")
+    print(f"MOultL: {calculate_MOultL(x, modified_params):.2f}")
+    print(f"MOultW: {calculate_MOultW(x, modified_params):.2f}")
+    print(f"ex1L: {calculate_ex1L(x, modified_params):.6f}")
+    print(f"ex1W: {calculate_ex1W(x, modified_params):.6f}")
+    print(f"kvL: {calculate_kvL(x, modified_params):.2f}")
+    print(f"kvW: {calculate_kvW(x, modified_params):.2f}")
+    print(f"AngleL: {calculate_AngleL(x, modified_params):.2f}")
+    print(f"AngleW: {calculate_AngleW(x, modified_params):.2f}")
+    print(f"ks: {calculate_ks(x, modified_params):.2f}")
+    print(f"fVucL: {calculate_fVucL(x, modified_params):.2f}")
+    print(f"fVucW: {calculate_fVucW(x, modified_params):.2f}")
+    print(f"Bpr: {calculate_Bpr(x, modified_params):.2f}")
+    print(f"Mur: {calculate_Mur(x, modified_params):.2f}")
+    print(f"VPr: {calculate_VPr(x, modified_params):.2f}")
+    print(f"VOr: {calculate_VOr(x, modified_params):.2f}")
+    print(f"Cost: {calculate_Cost(x, modified_params):.2f}")
 
 # Example usage:
 params = FoundationParams(
-    ftg_cover=0.060,
-    col_length=0.600,
+    ftg_cover=0.050,
+    col_length=0.800,
     col_width=0.500,
-    load_dead=4000,
+    load_dead=8000,
     load_live=1500,
     bp=250,
 )
 
-optimized_dimensions = optimize_foundation(params)
-l, w, d = optimized_dimensions
+# Input specific values
+l = 6.45
+w = 6.15
+d = 1.7
+barL = 0.040
+ctsL = 0.1
+barW = 0.040
+ctsW = 0.1
 
-print(f"Optimized Foundation L: {l:.2f}")
-print(f"Optimized Foundation W: {w:.2f}")
-print(f"Optimized Foundation D: {d:.2f}")
-print(f"Optimized Cost: {calculate_Cost(optimized_dimensions, params):.2f}")
-print(f"Final ratios:")
-print(f"Bpr: {calculate_Bpr(optimized_dimensions, params):.2f}")
-print(f"Mur: {calculate_Mur(optimized_dimensions, params):.2f}")
-print(f"VPr: {calculate_VPr(optimized_dimensions, params):.2f}")
-print(f"VOr: {calculate_VOr(optimized_dimensions, params):.2f}")
-print(f"AstL/AstreqL: {calculate_AstL(optimized_dimensions, params)/calculate_AstreqL(optimized_dimensions, params):.2f}")
-print(f"AstW/AstreqW: {calculate_AstW(optimized_dimensions, params)/calculate_AstreqW(optimized_dimensions, params):.2f}")
+print_all_results(params, l, w, d, barL, ctsL, barW, ctsW)
+
