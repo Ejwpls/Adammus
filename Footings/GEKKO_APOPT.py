@@ -4,7 +4,7 @@ from gekko import GEKKO
 m = GEKKO(remote=False)
  
 # Define discrete sets for each variable
-l_values = [1, 2, 3, 4, 5]  # Example values for length
+l_values = [1.1, 2, 3, 4, 5]  # Example values for length
 w_values = [1, 2, 3, 4, 5]  # Example values for width
 d_values = [1, 2, 3]        # Example values for depth
 fc_values = [25, 32, 40, 50, 64]  # Example values for material cost factor
