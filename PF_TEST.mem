@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stkfile type="memberr" version="5.71">
+  <memberr>
+    <descriptor id="2024-09-20 15:22:35-PF_TEST">
+      <name>PF_TEST</name>
+      <lastview>Design</lastview>
+      <author>Bobda Builder</author>
+      <createddate>2024-09-20 15:22:35</createddate>
+      <modifieddate>2024-09-20 15:22:35</modifieddate>
+      <duration>0</duration>
+    </descriptor>
+    <file>
+      <contentformat>mem</contentformat>
+      <version>1.00</version>
+      <savename>{prj}DesignReview\PF_TEST.mem</savename>
+      <basename>footings_pad_511</basename>
+      <tabsorsections>Settings</tabsorsections>
+      <password>xAHli6fiis4j88M1gnQzeQ==</password>
+      <section>Unallocated</section>
+      <keyname>member</keyname>
+      <keyvalue>PF_TEST</keyvalue>
+    </file>
+    <basename>footings_pad_511</basename>
+    <data id="Formulas" readonly="">
+      <item name="member" value="Pad Footing PF09" />
+      <item name="fc" value="65" />
+      <item name="L" value="6450" />
+      <item name="W" value="6150" />
+      <item name="D" value="1249" />
+      <item name="designface" value="N" />
+      <item name="useasup" value="Y" />
+      <item name="reomethod" value="E" />
+      <item name="Unreo" value="N" />
+      <item name="duct" value="A" />
+      <item name="cl" value="800" />
+      <item name="cw" value="500" />
+      <item name="eccw" value="0" />
+      <item name="eccl" value="0" />
+      <item name="pdl" value="8000" />
+      <item name="pll" value="1500" />
+      <item name="den" value="6" />
+      <item name="bp" value="250" />
+      <item name="dir" value="L" />
+      <item name="do" value="50" />
+      <item name="bar" value="40" />
+      <item name="cts" value="100" />
+      <item name="fsy" value="500" />
+      <item name="bart" value="40" />
+      <item name="ctst" value="100" />
+      <item name="flipped" value="0" />
+      <item name="ID" value="10" />
+      <item name="layers" value="1" />
+      <item name="simpleshear" value="N" />
+      <item name="dg" value="16" />
+      <item name="LightConc" value="N" />
+      <item name="rshearfactor" value="1" />
+      <item name="limitttd" value="N" />
+      <item name="ligs" value="12" />
+      <item name="s_L" value="=MIN(smax_L,maxs)" />
+      <item name="legs_L" value="10" />
+      <item name="fsyv" value="500" />
+      <item name="s_W" value="=MIN(smax_W,maxs)" />
+      <item name="legs_W" value="=minlegs_W" />
+      <item name="basedon" value="A" />
+      <item name="reducebysw" value="Y" />
+      <item name="phir" value="0.9" />
+      <item name="setdsmin" value="Y" />
+      <item name="so" value="=10*th" />
+      <item name="th" value="150" />
+      <item name="soil" value="0" />
+      <item name="bpu" value="=bp" />
+      <item name="conc" value="25" />
+      <item name="soilr" value="18" />
+      <item name="di" value="200" />
+      <item name="pdown" value="=Pdl" />
+      <item name="pupstar" value="100" />
+      <item name="overlap" value="0" />
+      <item name="option" value="F" />
+      <item name="uarea" value="0" />
+    </data>
+    <reactions>
+      <reactions>
+      </reactions>
+      <reactioncells>
+      </reactioncells>
+      <reactionsto>
+      </reactionsto>
+      <reactionsfrom>
+      </reactionsfrom>
+    </reactions>
+  </memberr>
+</stkfile>

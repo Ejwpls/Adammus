@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stkfile type="memberr" version="5.71">
+  <memberr>
+    <descriptor id="[date]-[foundation_ID]">
+      <name>[foundation_ID]</name>
+      <lastview>Design</lastview>
+      <author>[author]</author>
+      <createddate>[date]</createddate>
+      <modifieddate>[date]</modifieddate>
+      <duration>0</duration>
+    </descriptor>
+    <file>
+      <contentformat>mem</contentformat>
+      <version>1.00</version>
+      <savename>{prj}DesignReview\[foundation_ID].mem</savename>
+      <basename>footings_pad_511</basename>
+      <tabsorsections>Settings</tabsorsections>
+      <password>xAHli6fiis4j88M1gnQzeQ==</password>
+      <section>Unallocated</section>
+      <keyname>member</keyname>
+      <keyvalue>[foundation_ID]</keyvalue>
+    </file>
+    <basename>footings_pad_511</basename>
+    <data id="Formulas" readonly="">
+      <item name="member" value="[foundation_ID]" />
+      <item name="fc" value="[fc]" />
+      <item name="L" value="[L]" />
+      <item name="W" value="[W]" />
+      <item name="D" value="[D]" />
+      <item name="designface" value="N" />
+      <item name="useasup" value="Y" />
+      <item name="reomethod" value="E" />
+      <item name="Unreo" value="N" />
+      <item name="duct" value="A" />
+      <item name="cl" value="[ColL]" />
+      <item name="cw" value="[ColW]" />
+      <item name="eccw" value="0" />
+      <item name="eccl" value="0" />
+      <item name="pdl" value="[Pdl]" />
+      <item name="pll" value="[Pll]" />
+      <item name="den" value="6" />
+      <item name="bp" value="[BP]" />
+      <item name="dir" value="L" />
+      <item name="do" value="[Cvr]" />
+      <item name="bar" value="[barL]" />
+      <item name="cts" value="[CTSL]" />
+      <item name="fsy" value="500" />
+      <item name="bart" value="[barW]" />
+      <item name="ctst" value="[CTSW]" />
+      <item name="flipped" value="0" />
+      <item name="ID" value="10" />
+      <item name="layers" value="1" />
+      <item name="simpleshear" value="N" />
+      <item name="dg" value="16" />
+      <item name="LightConc" value="N" />
+      <item name="rshearfactor" value="1" />
+      <item name="limitttd" value="N" />
+      <item name="ligs" value="12" />
+      <item name="s_L" value="=MIN(smax_L,maxs)" />
+      <item name="legs_L" value="10" />
+      <item name="fsyv" value="500" />
+      <item name="s_W" value="=MIN(smax_W,maxs)" />
+      <item name="legs_W" value="=minlegs_W" />
+      <item name="basedon" value="A" />
+      <item name="reducebysw" value="Y" />
+      <item name="phir" value="0.9" />
+      <item name="setdsmin" value="Y" />
+      <item name="so" value="=10*th" />
+      <item name="th" value="150" />
+      <item name="soil" value="0" />
+      <item name="bpu" value="=bp" />
+      <item name="conc" value="25" />
+      <item name="soilr" value="18" />
+      <item name="di" value="200" />
+      <item name="pdown" value="=Pdl" />
+      <item name="pupstar" value="100" />
+      <item name="overlap" value="0" />
+      <item name="option" value="F" />
+      <item name="uarea" value="0" />
+    </data>
+    <reactions>
+      <reactions>
+      </reactions>
+      <reactioncells>
+      </reactioncells>
+      <reactionsto>
+      </reactionsto>
+      <reactionsfrom>
+      </reactionsfrom>
+    </reactions>
+  </memberr>
+</stkfile>
