@@ -146,7 +146,7 @@ def calculate_foundation_values(fdn):
     vars['Mur'] = ne.evaluate('where(MultL / fMuoL > MultW / fMuoW, MultL / fMuoL, MultW / fMuoW)', vars)
     vars['VPr'] = ne.evaluate('VPult / fVP', vars)
     vars['VOr'] = ne.evaluate('where(VOultL / fVucL > VOultW / fVucW, VOultL / fVucL, VOultW / fVucW)', vars)
-    vars['Cost'] = ne.evaluate('(AstW / 1000000 * (L + barL*0.01165+0.0202) + AstL / 1000000 * (W + barW*0.01165+0.0202)) * 7850 * 3.400 + L * W * D * (130.866 * exp(fc * 0.0111) + 45 + 130) + 2 * D * L * W * 180', vars)
+    vars['Cost'] = ne.evaluate('(AstW / 1000000 * L + AstL / 1000000 * W) * 7850 * 3.400 + L * W * D * (130.866 * exp(fc * 0.0111) + 45 + 130) + 2 * D * L * W * 180', vars)
 
     return vars
 
@@ -186,7 +186,7 @@ def print_foundation_results(results, idx):
     print_row("Mult", results['MultL'][idx], results['MultW'][idx], "kNm", 1)
     print_row("Astshr", results['AstshrL'][idx], results['AstshrW'][idx], "mm²", 0)
     print_row("Astreq", results['AstreqL'][idx], results['AstreqW'][idx], "mm²", 0)
-    print_row("ku", results['kuL'][idx], results['kuW'][idx], decimals=3)
+    print_row("ku", results['kuL'][idx], results['kuW'][idx], decimals=4)
     print_row("phi", results['phiL'][idx], results['phiW'][idx], decimals=3)
     print_row("fMuo", results['fMuoL'][idx], results['fMuoW'][idx], "kNm", 1)
     print_row("CLR", results['CLR'][idx], unit="kN", decimals=0)
@@ -315,7 +315,6 @@ def main():
     sort_indices = np.argsort(flat_results['Cost'])
 
 
-    # After finding the optimal foundation
     foundation_export_parameters = {
         'foundation_ID': f'PF_TEST',
         'author': 'Bobda Builder',
@@ -336,7 +335,7 @@ def main():
         'CTSW': flat_results['ctsW'][sort_indices[0]]
     }
 
-    create_mem_file(foundation_export_parameters)
+    # create_mem_file(foundation_export_parameters)
 
     num_results_to_print = min(1, len(sort_indices))
     for i in range(num_results_to_print):
